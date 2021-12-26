@@ -4,6 +4,10 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+<h4 align="center"> 
+	🚧  Server Manager 🚀 In the last adjustments to be deployed...  🚧
+</h4>
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.  
 This is the frontend of the fullstack application Server Manager, an app where you can save, delete and ping servers.  
 The backend repository can be find here: https://github.com/nicolasgandrade/servermanager-backend

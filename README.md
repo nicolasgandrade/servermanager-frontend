@@ -5,7 +5,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.  
-This is the frontend of the fullstack application Server Manager, a app where you can save, delete and ping servers.  
+This is the frontend of the fullstack application Server Manager, an app where you can save, delete and ping servers.  
 The backend repository can be find here: https://github.com/nicolasgandrade/servermanager-backend
 
 <h2 id="features">Features</h2>

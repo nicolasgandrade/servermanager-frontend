@@ -22,7 +22,7 @@ The backend repository can be find here: https://github.com/nicolasgandrade/serv
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.  
-If you want to run the fullstack app (recomended), remember to start the API first. You can clone the repository here: https://github.com/nicolasgandrade/servermanager-backend
+If you want to run the fullstack app (recomended), remember to start the API first in localhost:8080 (to run in other port, config correctly the server.service.ts file). You can clone the repository here: https://github.com/nicolasgandrade/servermanager-backend
 
 ## Build
 

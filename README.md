@@ -6,7 +6,8 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.  
-This is the frontend of the fullstack application Server Manager, an app where you can save, delete and ping servers.  
+This is the frontend of the fullstack application Server Manager, an app where you can save, delete and ping servers. 
+With this app, you can test the connection between the machine where the program is running and another machine by its IP address.  
 The backend repository can be find here: https://github.com/nicolasgandrade/servermanager-backend
 
 <h4 align="center"> 
@@ -14,6 +15,9 @@ The backend repository can be find here: https://github.com/nicolasgandrade/serv
 	:heavy_check_mark: Fullstack app: https://serversmanager.herokuapp.com :heavy_check_mark: <br> 
 	:gear: API: https://serversmanager-backend.herokuapp.com :gear:
 </h4>
+
+<p><b>Obs:</b> The deploy in Heroku is just a demo of the application. The original purpose of the project is to test the connection between 2 servers, so
+you can clone the app to your local machine and use the program properly, testing your connection to other servers.</p>
 
 <h2 id="features">Features</h2>
 
